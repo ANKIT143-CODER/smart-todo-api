@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "5e89f8b6-ecc5-47aa-8c3d-e70fbc548a21",
+		"name": "Smart ToDo API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "51194794",
+		"_collection_link": "https://ankit143-coder-5887034.postman.co/workspace/Ankit-Mandal's-Workspace~c21fb3f0-4586-4942-8610-e59328fbb3e9/collection/51194794-5e89f8b6-ecc5-47aa-8c3d-e70fbc548a21?action=share&source=collection_link&creator=51194794"
+	},
+	"item": [
+		{
+			"name": "Register User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create Task",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Tasks",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Update Task",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Task",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
